@@ -12,7 +12,7 @@
 --------------------------------------------------------------------------------
 7. **Habilitats**: Tinc la habilitat de escriure molt rápid.
 8. **Xarxes Socials**: [Instagram](https://www.instagram.com/accounts/onetap/?next=%2F+)  
-9. **Fotografia**:
+9. **Fotografia**: ![La meva fotografia](Foto github.png)
 10. **Enllaços addicionals**: Cap
 
 
